@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Financial & Revenue Review Q+1",
+  "description": "Executive financial analytics, SaaS cohort churn modeling, onboarding diagnosis, and strategic roadmap planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
